@@ -1,0 +1,6 @@
+# Ignoring database files
+
+*.db
+
+.ipynb_checkpoints
+.Rhistory
